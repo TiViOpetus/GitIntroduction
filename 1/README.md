@@ -1,6 +1,6 @@
 # Moduli 1
 
-Linkki luentomateriaaliin: Git orientaatio ja perustietoa komennoista & workflowsta ![](https://github.com/Raision-seudun-koulutuskuntayhtyma/GitAloitus/blob/master/Assets/VCIntro.pdf)
+Linkki luentomateriaaliin: https://github.com/Raision-seudun-koulutuskuntayhtyma/GitAloitus/blob/master/Assets/VCIntro.pdf
 
 Tässä osiossa perehdyt Git:n ja Githubin perustoimintoihin:
 * Tiketit
