@@ -7,4 +7,4 @@ Lataa itsellesi jokin tekstieditori ympäristöösi, Windowsille esim. Notepad++
 $ git config --global user.name "Etunimi Sukunimi"
 $ git config --global user.email "sinunsähköpostisi@edu.raseko.fi"
 ```
-5. Kun em. vaiheet on suoritettu, siirry suorittamaan 1.1 - 1.3 kansiosta löytyvät tehtävät
+5. Kun em. vaiheet on suoritettu, siirry suorittamaan kansioista 1 ja 2 löytyvät tehtävät
