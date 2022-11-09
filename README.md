@@ -8,4 +8,5 @@ $ git config --global user.name "Etunimi Sukunimi"
 $ git config --global user.email "sinunsähköpostisi@edu.raseko.fi"
 ```
 (näitä käytetään käytännössä vain siihen, että ne näkyvät versionhallintalogissa itse tekemiesi muutosten kohdalla)
+
 5. Kun em. vaiheet on suoritettu, siirry suorittamaan kansioista 1 ja 2 löytyvät tehtävät
